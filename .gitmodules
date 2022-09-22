@@ -1,0 +1,9 @@
+[submodule "dexa-sdk"]
+	path = dexa-sdk
+	url = https://github.com/decentralised-dataexchange/dexa-sdk.git
+[submodule "dexa-smartcontracts"]
+	path = dexa-smartcontracts
+	url = https://github.com/decentralised-dataexchange/dexa-smartcontracts.git
+[submodule "dexa-protocol"]
+	path = dexa-protocol
+	url = https://github.com/decentralised-dataexchange/dexa-protocol.git
